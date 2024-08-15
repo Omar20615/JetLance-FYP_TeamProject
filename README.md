@@ -1,1 +1,1 @@
-# JetLance-FYP_TeamProject
+JETLANCE is a project that automates Berg Balance Score calculations using computer vision and pose estimation. It revamps balance assessments by removing the need of a physiotherapist 🧑🏻‍⚕️ and the human bias they bring in their scoring.its a whole product with a front end and is deployed on Nvidia Jetson this repo consits only the 14 grading algorathims used in our project these algorithms were made by evaluating around 20 videos of patients and control group combined
